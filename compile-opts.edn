@@ -5,4 +5,4 @@
 ; So best to use it during dev and :advanced for production.
 {:optimizations :whitespace
  :output-dir    "tmp"
- :output-to     "js/main.js"}
+ :output-to     "addon/main.js"}
